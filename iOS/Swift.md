@@ -596,6 +596,10 @@
 * [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
 * [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
 * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
+* [Youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) - Youtube iOS app template written in swift 3
+* [JZVideoDemo](https://github.com/lookingstars/JZVideoDemo) - 视频播放器 
+* [VideoEditDemo](https://github.com/caoguoqing/VideoEditDemo) - iOS video cut ,also can add blackgroundmusic iOS 视频剪辑，视频添加背景音乐 
+
 
 ## 消息相关@
 * [Homeoff](https://github.com/lizyyy/Homeoff) - 用swift写了一个模仿Launcher通知中心快捷方式的应用。支持20个应用，并增加了一个返回到桌面来解放Home键的功能。
