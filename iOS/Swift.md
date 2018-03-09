@@ -599,7 +599,7 @@
 * [Youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) - Youtube iOS app template written in swift 3
 * [JZVideoDemo](https://github.com/lookingstars/JZVideoDemo) - 视频播放器 
 * [VideoEditDemo](https://github.com/caoguoqing/VideoEditDemo) - iOS video cut ,also can add blackgroundmusic iOS 视频剪辑，视频添加背景音乐 
-
+* [VideoRecord](https://www.raywenderlich.com/94404/play-record-merge-videos-ios-swift) - iOS Video play record and cut merge 视频编辑
 
 ## 消息相关@
 * [Homeoff](https://github.com/lizyyy/Homeoff) - 用swift写了一个模仿Launcher通知中心快捷方式的应用。支持20个应用，并增加了一个返回到桌面来解放Home键的功能。
