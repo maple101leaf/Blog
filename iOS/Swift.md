@@ -578,6 +578,7 @@
 
 * [Sharaku](https://github.com/makomori/Sharaku) 类似Instagram的图片滤镜库 Image filtering UI library like Instagram.
 * [JHFilterDemo](https://github.com/China131/JHFilterDemo) 图片滤镜生成器
+* [NXDrawKit](https://github.com/Nicejinux/NXDrawKit)一款iOS端画图库
 
 ## 相机@
 
