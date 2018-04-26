@@ -15,3 +15,8 @@ This is my first GitHub site. I will collect technical code and technical articl
 * Android.
 * JavaScript.
 * Common. 
+
+
+# Mac OSX Practical skills
+Here record some sklls for the Mac OSX
+* Fast open color picker, open Script Editor -> type "choose color" -> save as .app file. every time you can launch it to open color picker, that's fast for developer to che color.
